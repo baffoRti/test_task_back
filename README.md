@@ -11,7 +11,9 @@ Method_B принимает в качестве параметров три зн
 Примеры вызовов методов:
 
 1. http://127.0.0.1:8000/method_a/
+
 ![image](https://user-images.githubusercontent.com/35337991/130448928-6cbcf635-da5c-497a-8504-dd69d91472ce.png)
 
 2. http://127.0.0.1:8000/method_b/USD/2001-03-02/2001-03-14/
+
 ![image](https://user-images.githubusercontent.com/35337991/130449215-29819534-99d5-4822-9d3b-27c9a06d04f3.png)
