@@ -17,3 +17,13 @@ Method_B принимает в качестве параметров три зн
 2. http://127.0.0.1:8000/method_b/USD/2001-03-02/2001-03-14/
 
 ![image](https://user-images.githubusercontent.com/35337991/130449215-29819534-99d5-4822-9d3b-27c9a06d04f3.png)
+
+Теперь вместе с клиентской частью:
+
+1. 
+![image](https://user-images.githubusercontent.com/35337991/130449466-61d42e9d-2b3e-4781-b476-70140b8da762.png)
+![image](https://user-images.githubusercontent.com/35337991/130449520-e19aec86-d035-4db2-9c9c-3889f309ade9.png)
+
+2.
+![image](https://user-images.githubusercontent.com/35337991/130449569-7b9e177a-6125-4101-89b0-4a6ad1d948fa.png)
+![image](https://user-images.githubusercontent.com/35337991/130449624-32ff4664-f25e-4642-855f-e6d2624ff159.png)
