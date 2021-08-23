@@ -20,10 +20,14 @@ Method_B принимает в качестве параметров три зн
 
 Теперь вместе с клиентской частью:
 
-1. 
+1.
+
 ![image](https://user-images.githubusercontent.com/35337991/130449466-61d42e9d-2b3e-4781-b476-70140b8da762.png)
+
 ![image](https://user-images.githubusercontent.com/35337991/130449520-e19aec86-d035-4db2-9c9c-3889f309ade9.png)
 
 2.
+
 ![image](https://user-images.githubusercontent.com/35337991/130449569-7b9e177a-6125-4101-89b0-4a6ad1d948fa.png)
+
 ![image](https://user-images.githubusercontent.com/35337991/130449624-32ff4664-f25e-4642-855f-e6d2624ff159.png)
